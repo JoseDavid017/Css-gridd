@@ -1,0 +1,19 @@
+.row{
+    padding: 0.25rem;
+    gap: 10px;
+}
+.col{
+    background-color: #2a93cf;
+}
+.col-sm{
+    background-color: blue;
+}
+.col-md{
+    background-color: cornflowerblue;
+}
+.col-lg{
+    background-color: crimson;
+}
+.col-xl{
+    background-color: coral;
+}
